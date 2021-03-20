@@ -5,7 +5,7 @@ import { SET_ALERT, REMOVE_ALERT } from "../types";
 
 const AlertState = (props) => {
   // global state for anything that has
-  // to do with github
+  // to do with alerts
   const initialState = null;
 
   // we call an action which makes a request
