@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Github Finder app to find users on Github
+
+Go here: [https://githubfinder30xdue7362udhf93.netlify.app/](https://githubfinder30xdue7362udhf93.netlify.app/) to view it.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
